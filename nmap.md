@@ -1,3 +1,4 @@
+```console
 # Nmap 7.91 scan initiated Sat Oct  2 17:42:32 2021 as: nmap -vvv -p 445,139,22,21 -A -Pn -oN nmap 10.10.184.82
 Nmap scan report for 10.10.184.82 (10.10.184.82)
 Host is up, received user-set (0.26s latency).
@@ -62,3 +63,4 @@ Host script results:
 Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Sat Oct  2 17:43:26 2021 -- 1 IP address (1 host up) scanned in 54.50 seconds
+```
