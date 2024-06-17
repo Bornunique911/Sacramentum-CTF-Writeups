@@ -1,3 +1,4 @@
+```console
 # Nmap 7.91 scan initiated Sat Oct  2 20:29:18 2021 as: nmap -vvv -p 21,80 -A -Pn -oN pallet_city_nmap 10.10.100.240
 Nmap scan report for 10.10.100.240 (10.10.100.240)
 Host is up, received user-set (0.20s latency).
@@ -30,3 +31,4 @@ PORT   STATE SERVICE REASON  VERSION
 Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Sat Oct  2 20:30:15 2021 -- 1 IP address (1 host up) scanned in 57.19 seconds
+```
